@@ -88,9 +88,13 @@ body {
   color: red;
 }
 
+.fa-whatsapp {
+  color: rgb(57, 236, 57);
+}
+
 .fa-youtube :hover,
 .fa-facebook :hover,
-.fa-twitter :hover {
+.fa-whatsapp :hover {
   color: #d5d5d5;
 }
 
